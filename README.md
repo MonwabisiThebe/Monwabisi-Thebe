@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=21B6C7&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+%7C+AI;From+raw+data+to+useful+insights;Learning%2C+building%2C+improving." alt="Animated introduction: Data Science, Machine Learning and AI" />
 
-**Final-year Computer Science student · Aspiring Data Scientist · South Africa**
+**Final-year Computer Science student · Aspiring Data Scientist **
 
 <a href="https://www.linkedin.com/in/monwabisi-thebe"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/MonwabisiThebe?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Explore_my_work-24292F?style=flat-square&logo=github&logoColor=white" /></a>
@@ -16,16 +16,6 @@
 ### A bit about me
 
 I work with data, build and test machine learning models, and enjoy figuring out why things work (or don't). My experience so far comes from coursework, personal projects, and team projects. I'm interested in Data Science and AI across different fields, and I'm keeping that door open.
-
-### How I work
-
-```text
-01  ASK       → What are we trying to understand?
-02  EXPLORE   → What does the data actually show?
-03  BUILD     → Which approach makes sense here?
-04  EVALUATE  → Does it work, and where does it fail?
-05  IMPROVE   → What can I do better next time?
-```
 
 ### My toolkit
 
@@ -47,37 +37,6 @@ I work with data, build and test machine learning models, and enjoy figuring out
 
 Also worked with **web scraping** and **testing**.
 
-### Selected work
-
-Rather than listing everything here, these are the kinds of problems I've been working on:
-
-| Area | Work | What it involves |
-|:--|:--|:--|
-| 📊 Analytics | Sales analysis | Exploring trends, patterns, and business questions |
-| 🧠 Machine learning | Customer churn | Working with classification and model evaluation |
-| 📈 Analytics | Marketing funnel analysis | Understanding how users move through a funnel |
-| 🤝 Team projects | DIRISA qualification work | Collaborative data-focused problem solving |
-
-**[Browse all repositories →](https://github.com/MonwabisiThebe?tab=repositories)**
-
-### Next on my list
-
-`APIs & ETL` · `FastAPI` · `Model deployment` · `Docker & cloud` · `MLOps & monitoring`
-
-These are areas I'm exploring or planning to learn — not tools I'm claiming to have mastered.
-
-### GitHub, in numbers
-
-<div align="center">
-  <img height="165" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=MonwabisiThebe&show_icons=true&hide_border=true&theme=transparent&title_color=21B6C7&icon_color=21B6C7&text_color=8B949E" />
-  <img height="165" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonwabisiThebe&layout=compact&hide_border=true&theme=transparent&title_color=21B6C7&text_color=8B949E" />
-</div>
-
-<sub>Language statistics reflect repository code, not proficiency. External stats images may occasionally be unavailable.</sub>
-
----
-
-<div align="center">
 
 **Still learning. Still building.**
 
